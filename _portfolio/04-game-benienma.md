@@ -1,7 +1,7 @@
 ---
 title: Action game prototype
 subtitle: Implementing with my map and model
-image: assets/img/portfolio/04-full.jpg
+image: assets/img/portfolio/04-full.gif
 alt: 
 
 caption:
@@ -9,12 +9,19 @@ caption:
   subtitle: GameDev
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Implemented action game with basic locomotion and Unity Input System (preview). 
+Made in mind for minimum effort from asset change to playable games for quick iteration.
+
+Supports:
+- automatically generated navmesh from blender on-the-fly
+- gamepad control
+- mouse/keyboard control 
 
 related twitter threads: 
+https://twitter.com/hokekyooo/status/1166222224392630272?s=20
 
 {:.list-inline}
 - Date: October 2019
-- Client: Lines
+- Tools: Unity, map created in blender
 - Category: GameDev
 
