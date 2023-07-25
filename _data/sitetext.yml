@@ -81,11 +81,11 @@ en: &DEFAULT_EN
             icon: fab fa-twitter
           - url: https://github.com/purrrfecto
             icon: fab fa-github
-      - name: ""
+      - name: "windxxxx"
         role: "Lead 2D Artist / Web Designer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/wtfcat.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/windxxxx
             icon: fab fa-twitter
           - url: wanyiyeh28@gmail.com
             icon: fab fa-envelope
