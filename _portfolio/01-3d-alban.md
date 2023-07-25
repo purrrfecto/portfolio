@@ -19,4 +19,4 @@ Fanmade model of Nijisanji EN Phantom Thief Vtuber Alban Knox
 {:.list-inline}
 - Date: 2022-08
 - Tools: Blender, MMD, Procreate, Adobe After Effects
-- Category: 3D Model
+- Category: 3D Model, Video
