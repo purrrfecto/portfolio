@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Casual Game Dev"
-        desc: "Love playing game but probably enjoy more on creating them. we mainly use Unity for everything to test shaders, create interactive experiences, and prototype all kind of ideas" 
+        desc: "Love playing game but probably enjoy more on creating them! We mainly use Unity for everything from testing shaders, create interactive experiences, and prototype all kinds of ideas" 
         icon:  fas fa-gamepad #find more at https://fontawesome.com/icons
       - title: "3D model production"
         desc: "As a 3D enthusiast, We model, rig, composite, and render videos. Sometimes we even distribute the model or 3D print them!"
         icon: fas fa-user-astronaut
       - title: "Developer"
-        desc: "We also code professionally and propose interactive prototype and publish peer-reviewed papers when they are accepted. For interactive experience we work mostly in Unity, C#, Javascript, and Python. We are also full-stack web engineer with experience in databases, APIs, jQuery, Bootstrap, etc."
+        desc: "For interactive experience we work mostly in Unity, C#, Javascript, and Python. We are also full-stack web engineers with experience in databases, APIs, jQuery, Bootstrap, etc."
         icon: fas fa-code
 
   portfolio:
@@ -88,7 +88,7 @@ en: &DEFAULT_EN
           - url: https://twitter.com/windxxxx
             icon: fab fa-twitter
           - url: wanyiyeh28@gmail.com
-            icon: fab fa-envelope
+            icon: fas fa-envelope
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
