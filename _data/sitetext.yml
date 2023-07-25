@@ -11,31 +11,31 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Welcome to my portfolio!
+    text: Nice To Meet You
+    button: More
+    buttonlink: "#specialties"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "Specialties"
+    text: ""
+    section: specialties
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Casual Game Dev"
+        desc: "Love playing game but probably enjoy more on creating them. I mainly use Unity for everything to test shaders, create interactive experiences, and prototype all kind of ideas" 
+        icon:  fas fa-gamepad #find more at https://fontawesome.com/icons
+      - title: "3D model production"
+        desc: "As a 3D enthusiast, I model, rig, composite, and render videos. Sometimes I even distribute the model or 3D print them!"
+        icon: fab fa-user-astronaut
+      - title: "Developer"
+        desc: "I also code professionally and propose interactive prototype and publish peer-reviewed papers when they are accepted. Mostly in Unity, C#, Javascript, and Python. Also capable of other languages like unix shell scripting, java, etc. but quite rusted."
+        icon: fas fa-code
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Projects"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "First attempt to create something for personal project collections!"
     section: about
 
   clients:
@@ -94,22 +94,20 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Jokes on you I am mostly alone"
+    subtext: 
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "poppo"
+        role: "Lead Developer / 3D"
+        image: assets/img/team/twitter_400x400.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/hokekyooo
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+          - url: https://github.com/purrrfecto
+            icon: fab fa-github
+      - name: ""
+        role: "Lead Artist / Web Designer"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -118,17 +116,6 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
