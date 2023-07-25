@@ -1,5 +1,5 @@
 ---
-title: Project Name
+title: FGO benienma 3D model
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/03-full.jpg
 alt: 
