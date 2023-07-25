@@ -14,9 +14,10 @@ Fanmade model of Nijisanji EN Phantom Thief Vtuber Alban Knox
 - MMD ready
 - include basic facial expression / blend shapes
 - coat on / off version
-- Distribution link: https://youtu.be/IfDjvm9hm04
 
-{:.list-inline}
+[Demo Link](https://youtu.be/IfDjvm9hm04)
+
 - Date: 2022-08
 - Tools: Blender, MMD, Procreate, Adobe After Effects
 - Category: 3D Model, Video
+{:.list-inline .text-align: start}
