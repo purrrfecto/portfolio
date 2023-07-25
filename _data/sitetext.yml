@@ -14,19 +14,19 @@ en: &DEFAULT_EN
     title: Welcome to my portfolio!
     text: Nice To Meet You
     button: More
-    buttonlink: "#specialties"
+    buttonlink: "#services"
 
   services:
-    title: "Specialties"
+    title: "Services"
     text: ""
-    section: specialties
+    section: services
     list:
       - title: "Casual Game Dev"
         desc: "Love playing game but probably enjoy more on creating them. we mainly use Unity for everything to test shaders, create interactive experiences, and prototype all kind of ideas" 
         icon:  fas fa-gamepad #find more at https://fontawesome.com/icons
       - title: "3D model production"
         desc: "As a 3D enthusiast, We model, rig, composite, and render videos. Sometimes we even distribute the model or 3D print them!"
-        icon: fab fa-user-astronaut
+        icon: fas fa-user-astronaut
       - title: "Developer"
         desc: "We also code professionally and propose interactive prototype and publish peer-reviewed papers when they are accepted. For interactive experience we work mostly in Unity, C#, Javascript, and Python. We are also full-stack web engineer with experience in databases, APIs, jQuery, Bootstrap, etc."
         icon: fas fa-code
@@ -37,36 +37,19 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close"
 
-  # timeline:
-  #   title: "Timeline"
-  #   text: "Lorem ipsum timeline"
-  #   section: timeline
-  #   # left is the default
-  #   #start_align: "left"
-  #   events:
-  #     - title: "Our Humble Beginnings"
-  #       year: "2009-2011"
-  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-  #       image: assets/img/timeline/1.jpg
-  #       alt:
-  #     - title: "An Agency is Born"
-  #       year: "March 2011"
-  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-  #       image: assets/img/timeline/2.jpg
-  #       alt:
-  #     - title: "Jekyll Theme is created"
-  #       year: "2019"
-  #       desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-  #       image: assets/img/timeline/3.jpg
-  #       alt: image alt text
-  #     - title: "Title"
-  #       year: "2009-2011"
-  #       desc: "Your description here, **Markdown** is fully supported."
-  #       image: assets/img/timeline/4.jpg
-  #       alt:
-  #       # you can enforce the alignment
-  #       align: right
-  #   end: "Be Part <br> of Our <br> Story!"
+  timeline:
+    title: "Timeline"
+    text: "a timeline"
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Our Humble Beginnings"
+        year: "2023-"
+        desc: "website created!"
+        image: assets/img/timeline/1.jpg
+        alt:
+    end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
