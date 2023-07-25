@@ -1,11 +1,11 @@
 ---
-title: benienma model
+title: Benienma 3D model from FGO
 subtitle: 3D model
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Benienma 3D model from FGO
+  title: Benienma model
   subtitle: Archived
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
