@@ -1,18 +1,18 @@
 ---
-title: FGO benienma 3D model
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: benienma model
+subtitle: 3D model
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Benienma 3D model from FGO
+  subtitle: Archived
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Fanmade benienma model from Fate/Grand Order.
 
 {:.list-inline}
 - Date: January 2017
-- Client: Finish
-- Category: Identity
+- Tools: Blender
+- Category: 3D model
 
