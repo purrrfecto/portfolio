@@ -1,18 +1,20 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Documentation website for model distribution
+subtitle: currently updating
 image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+alt: doc website thumbnail
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Documentation website for model distribution
+  subtitle: Website
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Documentation for multilingual documentation website built with mkdocs, hosted on github.
+Currently support English, Mandarin Chinese, and Japanese.
+Live Link: https://purrrfecto.github.io/mmd/
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: 2022-08
+- Tools: github pages, mkdocs, markdown 
+- Category: Website
 
