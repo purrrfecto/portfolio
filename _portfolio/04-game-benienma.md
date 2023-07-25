@@ -1,12 +1,12 @@
 ---
 title: Action game prototype
-subtitle: Implementing with my map and model
+subtitle: GameDev
 image: assets/img/portfolio/04-full.gif
 alt: 
 
 caption:
   title: Action game prototype with homemade map and model
-  subtitle: GameDev
+  subtitle: Implementing with my map and model
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
 Implemented action game with basic locomotion and Unity Input System (preview). 
