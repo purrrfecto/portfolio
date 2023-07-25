@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Projects"
+    text: "Most of the project progress are posted on twitter, this is just a compilation of projects."
     section: portfolio
     closebutton: "Close"
 
