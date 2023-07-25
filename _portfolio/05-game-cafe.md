@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Cafe game
+subtitle: Early Concept
 image: assets/img/portfolio/05-full.jpg
 alt: 
 
 caption:
-  title: Southwest
-  subtitle: Website Design
+  title: Cafe game
+  subtitle: GameDev
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Inspired by *Animal Restaurant, Overcooked, and Plate-Up*, we are prototyping an interactive cooking simulation game featuring our favorite vtubers and their fanbase!
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
+- Date: 2023-07
+- Tools: Unity, Procreate
+- Category: GameDev
 
