@@ -87,7 +87,7 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com/windxxxx
             icon: fab fa-twitter
-          - url: wanyiyeh28@gmail.com
+          - url: mailto:wanyiyeh28@gmail.com
             icon: fas fa-envelope
   contact:
     title: "Contact Us"
