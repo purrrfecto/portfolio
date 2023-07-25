@@ -1,5 +1,5 @@
 ---
-title: Documentation website for model distribution
+title: Model distribution Doc
 subtitle: currently updating
 image: assets/img/portfolio/02-full.jpg
 alt: doc website thumbnail
@@ -16,5 +16,5 @@ Live Link: https://purrrfecto.github.io/mmd/
 {:.list-inline}
 - Date: 2022-08
 - Tools: github pages, mkdocs, markdown 
-- Category: Website
+- Category: WebDev
 
