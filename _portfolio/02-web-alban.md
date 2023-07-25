@@ -1,20 +1,24 @@
 ---
-title: Model distribution Doc
-subtitle: currently updating
+title: Documentation website for model distribution
+subtitle: actively updating
 image: assets/img/portfolio/02-full.jpg
 alt: doc website thumbnail
 
 caption:
-  title: Documentation website for model distribution
+  title: Model Doc Website
   subtitle: Website
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
 Documentation for multilingual documentation website built with mkdocs, hosted on github.
+
 Currently support English, Mandarin Chinese, and Japanese.
-Live Link: https://purrrfecto.github.io/mmd/
+{: .list-inline .text-align: start}
 
-{:.list-inline}
+Related Links
+: [Documentation](https://purrrfecto.github.io/mmd/)
+
+
 - Date: 2022-08
-- Tools: github pages, mkdocs, markdown 
+- Tools: github pages, mkdocs, markdown
 - Category: WebDev
-
+{: .list-inline .text-align: start}
