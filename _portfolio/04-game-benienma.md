@@ -1,7 +1,7 @@
 ---
 title: Action game prototype
 subtitle: GameDev
-image: assets/img/portfolio/04-full.gif
+image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
@@ -17,7 +17,7 @@ Supports:
 - gamepad control
 - mouse/keyboard control 
 
-related twitter threads: 
+GIF demo: 
 https://twitter.com/hokekyooo/status/1166222224392630272?s=20
 
 {:.list-inline}
