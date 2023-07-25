@@ -81,6 +81,8 @@ en: &DEFAULT_EN
             icon: fab fa-twitter
           - url: https://github.com/purrrfecto
             icon: fab fa-github
+          - url: mailto:hokekyooo@gmail.com
+            icon: fas fa-envelope
       - name: "windxxxx"
         role: "Lead 2D Artist / Web Designer"
         image: assets/img/team/wtfcat.jpg
