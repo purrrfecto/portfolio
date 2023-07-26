@@ -69,8 +69,8 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "with cats and dog messing around"
-    subtext: 
+    text: "to make everything possible"
+    subtext: team
     section: team
     people:
       - name: "poppo"
@@ -93,14 +93,14 @@ en: &DEFAULT_EN
             icon: fas fa-envelope
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Feel free to contact us through this form, or individually through social media!"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
-#    phone: "Phone Number"
-#    phone-validation: "Please enter your phone number."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
