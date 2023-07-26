@@ -1,12 +1,12 @@
 ---
-title: Action game prototype
-subtitle: GameDev
+title: Action RPG w/ homemade map and model
+subtitle: 
 image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Action game prototype with homemade map and model
-  subtitle: Implementing with my map and model
+  title: RPG action game prototype
+  subtitle: GameDev
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
 Implemented action game with basic locomotion and Unity Input System (preview). 
@@ -16,12 +16,12 @@ Supports:
 - automatically generated navmesh from blender on-the-fly
 - gamepad control
 - mouse/keyboard control 
+{: .list-inline .text-align: start}
 
-GIF demo: 
-https://twitter.com/hokekyooo/status/1166222224392630272?s=20
+Related Links
+: [Map movement](https://twitter.com/hokekyooo/status/1166222224392630272?s=20), [Inventory system]([https://youtu.be/MGQA7I1UWZM](https://twitter.com/hokekyooo/status/1124191084693864448?s=20))
 
-{:.list-inline}
 - Date: October 2019
 - Tools: Unity, map created in blender
 - Category: GameDev
-
+{: .list-inline .text-align: start}
