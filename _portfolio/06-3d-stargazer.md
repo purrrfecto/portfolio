@@ -1,12 +1,12 @@
 ---
 title: Stargazer keycap
-subtitle: 3D-Printing
+subtitle: WIP
 image: assets/img/portfolio/06-full.jpg
 alt: 
 
 caption:
   title: Stargazer keycap
-  subtitle: WIP
+  subtitle: 3D-Printing
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
 3D printable stargazer keycap for cherry profile mechanic keyboards
